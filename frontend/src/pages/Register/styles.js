@@ -31,14 +31,14 @@ export const Section = styled.div`
 `
 
 
-export const Title = styled.text`
+export const Title = styled.h1`
    margin: 64px 0 32px;
    font-size: 32px;
    font-weight: bold;
 `
 
 
-export const Text = styled.text`
+export const Text = styled.h1`
   font-size: 18px;
   color: #737380;
   line-height: 32px;

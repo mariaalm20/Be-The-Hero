@@ -47,7 +47,8 @@ export default function Register() {
       <Content>
         <Section>
           <img src = {logo} alt = "Be The Hero"/>
-          
+          <Title>Cadastrar</Title>
+          <Text>Faça seu cadastro, entre na plataforma e ajude pessoas a encontrarem casos da sua ONG</Text>
           <Linkto to = "/">
            <FiArrowLeft size = {16} color = "#E02041" style = {{marginRight: 10 }}/>
            Voltar para tela de Login
