@@ -1,5 +1,5 @@
 # semanaOmnistack11
-Projeto desenvolvido durante a Semana Omnistack 11 realizado pela rocketseat, no qual foi codificado uma aplicação web e mobile de um projeto que tem o intuito de registrar casos de ongs que necessitam de um investimento externo.
+O **Be The Hero** é um projeto desenvolvido durante a Semana Omnistack 11 realizado pela rocketseat, no qual foi codificado uma aplicação web e mobile de um projeto que tem o intuito de registrar casos de ongs que necessitam de um investimento externo.
 
 |APP | WEB | 
 | ------------ | ------------- |
