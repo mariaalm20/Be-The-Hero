@@ -3,7 +3,7 @@ O **Be The Hero** é um projeto desenvolvido durante a Semana Omnistack 11 reali
 
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/50887367/81872790-d7e12400-9550-11ea-9e15-7c3e9bf40392.png" />
+  <img src = "https://user-images.githubusercontent.com/50887367/81873793-d7e22380-9552-11ea-9411-6456d5004578.png"/>
   <img src = "https://user-images.githubusercontent.com/50887367/81872641-7faa2200-9550-11ea-9cec-d1724a331eb1.png"/>
 </p>
 
