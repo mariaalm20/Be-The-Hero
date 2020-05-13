@@ -9,8 +9,8 @@ O **Be The Hero** é um projeto desenvolvido durante a Semana Omnistack 11 reali
 
 :rocket: **TECNOLOGIAS UTILIZADAS:**
 
-- <img src="https://user-images.githubusercontent.com/50887367/81874982-99019d00-9555-11ea-940f-105a06629984.png"  width="30" height="25"/>          NodeJS
+- NodeJS
 
-- <img src="https://user-images.githubusercontent.com/50887367/81874654-b2eeb000-9554-11ea-98e2-4c9391920534.png" width="30" height="25" />    ReactJS
+- ReactJS
 
-- <img src="https://user-images.githubusercontent.com/50887367/81874654-b2eeb000-9554-11ea-98e2-4c9391920534.png" width="30" height="25" />    ReactNative
+- ReactNative
